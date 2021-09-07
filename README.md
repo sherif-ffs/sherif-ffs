@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @sherif-ffs
-- Mostly working in private repos these days...
 
 <!---
 sherif-ffs/sherif-ffs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
